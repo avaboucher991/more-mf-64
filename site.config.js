@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "标题",
+    title: "无毛批发部",
     description: "欢迎",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
